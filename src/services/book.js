@@ -18,13 +18,45 @@ export const getBooks = ({page, limit, order, name, available, ...query}) =>
 
     const response = await db.Book.findAndCountAll({
       where: query,
-      ...queries
+      ...queries,
+      attributes: {
+        exclude: ['category_code']
+      },
+      include: [
+        {
+          model: db.Category,
+          attributes: {exclude: ['createdAt', 'updatedAt']},
+          as: 'categoryData'
+        }
+      ]
     })
 
     resolve({
       error: response ? 0 : 1,
       message: response ? 'Success to get Books!' : 'Fail to get Books',
       bookData: response
+    })    
+  } catch (error) {
+    console.log(error)
+    reject(error)
+  }
+})
+
+export const createBook = (body) => new Promise( async (resolve, reject) => {
+  try {
+    const response = await db.Book.findOrCreate({
+      where: {
+        title: body.title
+      },
+      defaults: body
+    })
+
+    const [book, created] = response
+
+    resolve({
+      error: created ? 0 : 1,
+      message: created ? 'Success to create new Books!' : 'Fail to create new Book',
+      bookData: book
     })    
   } catch (error) {
     console.log(error)
