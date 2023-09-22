@@ -1,0 +1,1185 @@
+{
+    "Travel": [
+        {
+            "bookTitle": "It's Only the Himalayas",
+            "bookPrice": "45.17",
+            "imageUrl": "http://books.toscrape.com/media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg"
+        },
+        {
+            "bookTitle": "Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond",
+            "bookPrice": "49.43",
+            "imageUrl": "http://books.toscrape.com/media/cache/fe/8a/fe8af6ceec7718986380c0fde9b3b34f.jpg"
+        },
+        {
+            "bookTitle": "See America: A Celebration of Our National Parks & Treasured Sites",
+            "bookPrice": "48.87",
+            "imageUrl": "http://books.toscrape.com/media/cache/c7/1a/c71a85dbf8c2dbc75cb271026618477c.jpg"
+        },
+        {
+            "bookTitle": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+            "bookPrice": "36.94",
+            "imageUrl": "http://books.toscrape.com/media/cache/ca/30/ca30b1afe1e76ce7ba1db8176d398e53.jpg"
+        },
+        {
+            "bookTitle": "Under the Tuscan Sun",
+            "bookPrice": "37.33",
+            "imageUrl": "http://books.toscrape.com/media/cache/45/21/4521c581ba727f5c835e34860cbf53e5.jpg"
+        },
+        {
+            "bookTitle": "A Summer In Europe",
+            "bookPrice": "44.34",
+            "imageUrl": "http://books.toscrape.com/media/cache/6c/e3/6ce3003931701c7a3fd5354917538ea9.jpg"
+        },
+        {
+            "bookTitle": "The Great Railway Bazaar",
+            "bookPrice": "30.54",
+            "imageUrl": "http://books.toscrape.com/media/cache/d5/82/d582f6b0261c2842330e893962276295.jpg"
+        },
+        {
+            "bookTitle": "A Year in Provence (Provence #1)",
+            "bookPrice": "56.88",
+            "imageUrl": "http://books.toscrape.com/media/cache/8b/81/8b81cd9b2c8f89a12099a80bed1c4911.jpg"
+        },
+        {
+            "bookTitle": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+            "bookPrice": "23.21",
+            "imageUrl": "http://books.toscrape.com/media/cache/26/f5/26f5d20239a45046e756c6d09611b3ea.jpg"
+        },
+        {
+            "bookTitle": "Neither Here nor There: Travels in Europe",
+            "bookPrice": "38.95",
+            "imageUrl": "http://books.toscrape.com/media/cache/c9/9a/c99a7a05537cd842eb4db83d537e3a4d.jpg"
+        },
+        {
+            "bookTitle": "1,000 Places to See Before You Die",
+            "bookPrice": "26.08",
+            "imageUrl": "http://books.toscrape.com/media/cache/9e/10/9e106f81f65b293e488718a4f54a6a3f.jpg"
+        }
+    ],
+    "HistoricalFiction": [
+        {
+            "bookTitle": "Tipping the Velvet",
+            "bookPrice": "53.74",
+            "imageUrl": "http://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg"
+        },
+        {
+            "bookTitle": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton",
+            "bookPrice": "29.69",
+            "imageUrl": "http://books.toscrape.com/media/cache/f9/9e/f99e760b894d10c6e5ed578618918367.jpg"
+        },
+        {
+            "bookTitle": "A Flight of Arrows (The Pathfinders #2)",
+            "bookPrice": "55.53",
+            "imageUrl": "http://books.toscrape.com/media/cache/ec/65/ec651ed66822d4b68938afa645b1ece2.jpg"
+        },
+        {
+            "bookTitle": "The House by the Lake",
+            "bookPrice": "36.95",
+            "imageUrl": "http://books.toscrape.com/media/cache/46/a2/46a2c968bfccf1979cc5576085eec6dd.jpg"
+        },
+        {
+            "bookTitle": "Mrs. Houdini",
+            "bookPrice": "30.25",
+            "imageUrl": "http://books.toscrape.com/media/cache/b4/45/b445dbc81ca3aff1321a6bf0d0fa231d.jpg"
+        },
+        {
+            "bookTitle": "The Marriage of Opposites",
+            "bookPrice": "28.08",
+            "imageUrl": "http://books.toscrape.com/media/cache/33/8e/338e196723f3fb10d5c6990fe54be61d.jpg"
+        },
+        {
+            "bookTitle": "Glory over Everything: Beyond The Kitchen House",
+            "bookPrice": "45.84",
+            "imageUrl": "http://books.toscrape.com/media/cache/06/ac/06ac98df817412ce2419c4509fa98c80.jpg"
+        },
+        {
+            "bookTitle": "Love, Lies and Spies",
+            "bookPrice": "20.55",
+            "imageUrl": "http://books.toscrape.com/media/cache/5c/19/5c19785278eaa6bf984ce6659847abc3.jpg"
+        },
+        {
+            "bookTitle": "A Paris Apartment",
+            "bookPrice": "39.01",
+            "imageUrl": "http://books.toscrape.com/media/cache/b3/d9/b3d90aca157d5a250becc8b255a37251.jpg"
+        },
+        {
+            "bookTitle": "Lilac Girls",
+            "bookPrice": "17.28",
+            "imageUrl": "http://books.toscrape.com/media/cache/c0/80/c080a1626edf581b780420db13e7b074.jpg"
+        },
+        {
+            "bookTitle": "The Constant Princess (The Tudor Court #1)",
+            "bookPrice": "16.62",
+            "imageUrl": "http://books.toscrape.com/media/cache/ed/52/ed52651826bb23d853aead2753c9befc.jpg"
+        },
+        {
+            "bookTitle": "The Invention of Wings",
+            "bookPrice": "37.34",
+            "imageUrl": "http://books.toscrape.com/media/cache/7a/b0/7ab00e6956f540bfe0018656d5bfe1e4.jpg"
+        },
+        {
+            "bookTitle": "World Without End (The Pillars of the Earth #2)",
+            "bookPrice": "32.97",
+            "imageUrl": "http://books.toscrape.com/media/cache/58/b5/58b5730dd82cbcf6560cf0ab8b56cd9f.jpg"
+        },
+        {
+            "bookTitle": "The Passion of Dolssa",
+            "bookPrice": "28.32",
+            "imageUrl": "http://books.toscrape.com/media/cache/b3/59/b35975c0df26c40964028a8ccabc9a91.jpg"
+        },
+        {
+            "bookTitle": "Girl With a Pearl Earring",
+            "bookPrice": "26.77",
+            "imageUrl": "http://books.toscrape.com/media/cache/b1/5e/b15ec9da5c7b28e2d11347dd2e8c20e5.jpg"
+        },
+        {
+            "bookTitle": "Voyager (Outlander #3)",
+            "bookPrice": "21.07",
+            "imageUrl": "http://books.toscrape.com/media/cache/6e/22/6e22497cbecedef59be86d1328e4b044.jpg"
+        },
+        {
+            "bookTitle": "The Red Tent",
+            "bookPrice": "35.66",
+            "imageUrl": "http://books.toscrape.com/media/cache/15/59/155942710c3ae4bd4ed622df9a999b99.jpg"
+        },
+        {
+            "bookTitle": "The Last Painting of Sara de Vos",
+            "bookPrice": "55.55",
+            "imageUrl": "http://books.toscrape.com/media/cache/1c/e4/1ce4c2573d65ebdc3c85d9a6592d57b1.jpg"
+        },
+        {
+            "bookTitle": "The Guernsey Literary and Potato Peel Pie Society",
+            "bookPrice": "49.53",
+            "imageUrl": "http://books.toscrape.com/media/cache/98/e3/98e3925e5e6a66acf2cde918fc147205.jpg"
+        },
+        {
+            "bookTitle": "Girl in the Blue Coat",
+            "bookPrice": "46.83",
+            "imageUrl": "http://books.toscrape.com/media/cache/15/ea/15eaabd188af8916c4a37d135f7b8952.jpg"
+        },
+        {
+            "bookTitle": "Between Shades of Gray",
+            "bookPrice": "20.79",
+            "imageUrl": "http://books.toscrape.com/media/cache/df/45/df45004c7a4c3940946ad09f85805565.jpg"
+        },
+        {
+            "bookTitle": "While You Were Mine",
+            "bookPrice": "41.32",
+            "imageUrl": "http://books.toscrape.com/media/cache/4f/7c/4f7cde01c9711886ef5a8fa14996a52d.jpg"
+        },
+        {
+            "bookTitle": "The Secret Healer",
+            "bookPrice": "34.56",
+            "imageUrl": "http://books.toscrape.com/media/cache/3e/59/3e59b2225c72d3dcf40a306e2b983314.jpg"
+        },
+        {
+            "bookTitle": "Starlark",
+            "bookPrice": "25.83",
+            "imageUrl": "http://books.toscrape.com/media/cache/76/e2/76e2881d47f2da9283e52d3c57eef532.jpg"
+        },
+        {
+            "bookTitle": "Lost Among the Living",
+            "bookPrice": "27.70",
+            "imageUrl": "http://books.toscrape.com/media/cache/5f/03/5f0345cd81aaad65bb9f6a34ec0f6b9b.jpg"
+        },
+        {
+            "bookTitle": "A Spy's Devotion (The Regency Spies of London #1)",
+            "bookPrice": "16.97",
+            "imageUrl": "http://books.toscrape.com/media/cache/f9/6b/f96b60a7614c4e3e868b82f6811efc7c.jpg"
+        }
+    ],
+    "Mystery": [
+        {
+            "bookTitle": "Sharp Objects",
+            "bookPrice": "47.82",
+            "imageUrl": "http://books.toscrape.com/media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg"
+        },
+        {
+            "bookTitle": "In a Dark, Dark Wood",
+            "bookPrice": "19.63",
+            "imageUrl": "http://books.toscrape.com/media/cache/95/84/95840dfd67c020067c99d70451147e20.jpg"
+        },
+        {
+            "bookTitle": "The Past Never Ends",
+            "bookPrice": "56.50",
+            "imageUrl": "http://books.toscrape.com/media/cache/9d/f2/9df248dcefeaba9eeb519a59b248f72c.jpg"
+        },
+        {
+            "bookTitle": "A Murder in Time",
+            "bookPrice": "16.64",
+            "imageUrl": "http://books.toscrape.com/media/cache/cc/bd/ccbd7a62caefd5a3a2e04dd7c2ff48fe.jpg"
+        },
+        {
+            "bookTitle": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+            "bookPrice": "44.10",
+            "imageUrl": "http://books.toscrape.com/media/cache/86/38/8638ba095b3b32e0abdef170e7bc4fd6.jpg"
+        },
+        {
+            "bookTitle": "The Last Mile (Amos Decker #2)",
+            "bookPrice": "54.21",
+            "imageUrl": "http://books.toscrape.com/media/cache/e6/dc/e6dcc8f75214eb14edc1ce09c98f3d71.jpg"
+        },
+        {
+            "bookTitle": "That Darkness (Gardiner and Renner #1)",
+            "bookPrice": "13.92",
+            "imageUrl": "http://books.toscrape.com/media/cache/23/b8/23b81994234ac127d701db1531a08e48.jpg"
+        },
+        {
+            "bookTitle": "Tastes Like Fear (DI Marnie Rome #3)",
+            "bookPrice": "10.69",
+            "imageUrl": "http://books.toscrape.com/media/cache/74/9b/749bca168778cf35fdb2441a9d6b403f.jpg"
+        },
+        {
+            "bookTitle": "A Time of Torment (Charlie Parker #14)",
+            "bookPrice": "48.35",
+            "imageUrl": "http://books.toscrape.com/media/cache/f1/37/f137a410ed7d6fcfce17d081caf97915.jpg"
+        },
+        {
+            "bookTitle": "A Study in Scarlet (Sherlock Holmes #1)",
+            "bookPrice": "16.73",
+            "imageUrl": "http://books.toscrape.com/media/cache/27/40/274003f2720f82844873945b87af6c19.jpg"
+        },
+        {
+            "bookTitle": "Poisonous (Max Revere Novels #3)",
+            "bookPrice": "26.80",
+            "imageUrl": "http://books.toscrape.com/media/cache/8d/52/8d52227d29e03695ef755620078b7815.jpg"
+        },
+        {
+            "bookTitle": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+            "bookPrice": "54.36",
+            "imageUrl": "http://books.toscrape.com/media/cache/19/74/19748437aac103dbdeb1918062728726.jpg"
+        },
+        {
+            "bookTitle": "Most Wanted",
+            "bookPrice": "35.28",
+            "imageUrl": "http://books.toscrape.com/media/cache/fa/b5/fab5e650b19b76c5f5d1ce3a626376b1.jpg"
+        },
+        {
+            "bookTitle": "Hide Away (Eve Duncan #20)",
+            "bookPrice": "11.84",
+            "imageUrl": "http://books.toscrape.com/media/cache/b2/c5/b2c501b848bccd9cc375771f53c0fb6e.jpg"
+        },
+        {
+            "bookTitle": "Boar Island (Anna Pigeon #19)",
+            "bookPrice": "59.48",
+            "imageUrl": "http://books.toscrape.com/media/cache/91/8c/918c2c95ae90495cdb0371a22b726d82.jpg"
+        },
+        {
+            "bookTitle": "The Widow",
+            "bookPrice": "27.26",
+            "imageUrl": "http://books.toscrape.com/media/cache/e4/37/e43737572b04c7ad28b35f3da29eb8dd.jpg"
+        },
+        {
+            "bookTitle": "Playing with Fire",
+            "bookPrice": "13.71",
+            "imageUrl": "http://books.toscrape.com/media/cache/09/02/0902666ade8ab8183363e53c108e5069.jpg"
+        },
+        {
+            "bookTitle": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+            "bookPrice": "25.37",
+            "imageUrl": "http://books.toscrape.com/media/cache/2c/68/2c6857eb1c10995c8b9e77a1804f68cd.jpg"
+        },
+        {
+            "bookTitle": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+            "bookPrice": "52.30",
+            "imageUrl": "http://books.toscrape.com/media/cache/38/a4/38a44ac4f642f4717d865c81ec594529.jpg"
+        },
+        {
+            "bookTitle": "Delivering the Truth (Quaker Midwife Mystery #1)",
+            "bookPrice": "20.89",
+            "imageUrl": "http://books.toscrape.com/media/cache/5c/8a/5c8acde540a88aed464ab5c52bafcd83.jpg"
+        },
+        {
+            "bookTitle": "The Mysterious Affair at Styles (Hercule Poirot #1)",
+            "bookPrice": "24.80",
+            "imageUrl": "http://books.toscrape.com/media/cache/6b/61/6b61d393f0731f6c52182ba3cf41e245.jpg"
+        },
+        {
+            "bookTitle": "In the Woods (Dublin Murder Squad #1)",
+            "bookPrice": "38.38",
+            "imageUrl": "http://books.toscrape.com/media/cache/13/47/13470484ded8c835ce03b662fc863a1a.jpg"
+        },
+        {
+            "bookTitle": "The Silkworm (Cormoran Strike #2)",
+            "bookPrice": "23.05",
+            "imageUrl": "http://books.toscrape.com/media/cache/fa/d2/fad227281b25d606782218a33323991b.jpg"
+        },
+        {
+            "bookTitle": "The Exiled",
+            "bookPrice": "43.45",
+            "imageUrl": "http://books.toscrape.com/media/cache/dd/29/dd29147b962e4480491cac5bce41e4e4.jpg"
+        },
+        {
+            "bookTitle": "The Cuckoo's Calling (Cormoran Strike #1)",
+            "bookPrice": "19.21",
+            "imageUrl": "http://books.toscrape.com/media/cache/72/ec/72ec24f082aba608ca37bc3aeaf57317.jpg"
+        },
+        {
+            "bookTitle": "Extreme Prey (Lucas Davenport #26)",
+            "bookPrice": "25.40",
+            "imageUrl": "http://books.toscrape.com/media/cache/0a/b2/0ab24d35793497f6a72137191b91659e.jpg"
+        },
+        {
+            "bookTitle": "Career of Evil (Cormoran Strike #3)",
+            "bookPrice": "24.72",
+            "imageUrl": "http://books.toscrape.com/media/cache/40/f8/40f897ffbfda6e88e5763c157cfd0930.jpg"
+        },
+        {
+            "bookTitle": "The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)",
+            "bookPrice": "57.70",
+            "imageUrl": "http://books.toscrape.com/media/cache/62/8c/628c0151226402726149c98549671250.jpg"
+        },
+        {
+            "bookTitle": "The Girl You Lost",
+            "bookPrice": "12.29",
+            "imageUrl": "http://books.toscrape.com/media/cache/28/15/2815974db428ea019fc84e08af23095b.jpg"
+        },
+        {
+            "bookTitle": "The Girl In The Ice (DCI Erika Foster #1)",
+            "bookPrice": "15.85",
+            "imageUrl": "http://books.toscrape.com/media/cache/83/54/835421d17d99c89fd99d07e17806357b.jpg"
+        },
+        {
+            "bookTitle": "Blood Defense (Samantha Brinkman #1)",
+            "bookPrice": "20.30",
+            "imageUrl": "http://books.toscrape.com/media/cache/ea/12/ea12c82131832c5d772fdbd3cb56ced7.jpg"
+        },
+        {
+            "bookTitle": "1st to Die (Women's Murder Club #1)",
+            "bookPrice": "53.98",
+            "imageUrl": "http://books.toscrape.com/media/cache/f6/8e/f68e6ae2f9da04fccbde8442b0a1b52a.jpg"
+        }
+    ],
+    "Philosophy": [
+        {
+            "bookTitle": "Sophie's World",
+            "bookPrice": "15.94",
+            "imageUrl": "http://books.toscrape.com/media/cache/d7/39/d73914232130fdf90d66f02fd9798f2b.jpg"
+        },
+        {
+            "bookTitle": "The Death of Humanity: and the Case for Life",
+            "bookPrice": "58.11",
+            "imageUrl": "http://books.toscrape.com/media/cache/3f/f6/3ff6fe5d0c5ca7ab2ed8b5971e299caa.jpg"
+        },
+        {
+            "bookTitle": "The Stranger",
+            "bookPrice": "17.44",
+            "imageUrl": "http://books.toscrape.com/media/cache/c8/1a/c81aea97de1daaa0081d96f8564c204c.jpg"
+        },
+        {
+            "bookTitle": "Proofs of God: Classical Arguments from Tertullian to Barth",
+            "bookPrice": "54.21",
+            "imageUrl": "http://books.toscrape.com/media/cache/f6/cb/f6cb2300a1235a344f1c11b2be9a605d.jpg"
+        },
+        {
+            "bookTitle": "Kierkegaard: A Christian Missionary to Christians",
+            "bookPrice": "47.13",
+            "imageUrl": "http://books.toscrape.com/media/cache/bf/90/bf90ad2c3cab628096db8fca010797b4.jpg"
+        },
+        {
+            "bookTitle": "At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",
+            "bookPrice": "29.93",
+            "imageUrl": "http://books.toscrape.com/media/cache/ce/da/ceda6d577d0609261f997bd99872013b.jpg"
+        },
+        {
+            "bookTitle": "Critique of Pure Reason",
+            "bookPrice": "20.75",
+            "imageUrl": "http://books.toscrape.com/media/cache/3b/28/3b28ec3663a81d36272a08e5a49644f2.jpg"
+        },
+        {
+            "bookTitle": "Run, Spot, Run: The Ethics of Keeping Pets",
+            "bookPrice": "20.02",
+            "imageUrl": "http://books.toscrape.com/media/cache/8c/bf/8cbf4667b5798cb8195f1e126ddd6a5c.jpg"
+        },
+        {
+            "bookTitle": "The Nicomachean Ethics",
+            "bookPrice": "36.34",
+            "imageUrl": "http://books.toscrape.com/media/cache/16/f4/16f4518319f7dcadc23d020279f78545.jpg"
+        },
+        {
+            "bookTitle": "Meditations",
+            "bookPrice": "25.89",
+            "imageUrl": "http://books.toscrape.com/media/cache/90/f7/90f79652caecac36bc97bf7b769c8fc4.jpg"
+        },
+        {
+            "bookTitle": "Beyond Good and Evil",
+            "bookPrice": "43.38",
+            "imageUrl": "http://books.toscrape.com/media/cache/d1/7f/d17f326e3fcaf84c37d6d51e3470bcc6.jpg"
+        }
+    ],
+    "Business": [
+        {
+            "bookTitle": "The Dirty Little Secrets of Getting Your Dream Job",
+            "bookPrice": "33.34",
+            "imageUrl": "http://books.toscrape.com/media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg"
+        },
+        {
+            "bookTitle": "The Third Wave: An Entrepreneur’s Vision of the Future",
+            "bookPrice": "12.61",
+            "imageUrl": "http://books.toscrape.com/media/cache/0f/76/0f76b00ea914ced1822d8ac3480c485f.jpg"
+        },
+        {
+            "bookTitle": "The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job",
+            "bookPrice": "27.55",
+            "imageUrl": "http://books.toscrape.com/media/cache/50/4b/504b1891508614ff9393563f69d66c95.jpg"
+        },
+        {
+            "bookTitle": "Shoe Dog: A Memoir by the Creator of NIKE",
+            "bookPrice": "23.99",
+            "imageUrl": "http://books.toscrape.com/media/cache/fc/21/fc21d144c7289e5b1cb133e01a925126.jpg"
+        },
+        {
+            "bookTitle": "Made to Stick: Why Some Ideas Survive and Others Die",
+            "bookPrice": "38.85",
+            "imageUrl": "http://books.toscrape.com/media/cache/1e/3e/1e3e1572e17ade03b21c44617fbc4d68.jpg"
+        },
+        {
+            "bookTitle": "Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two",
+            "bookPrice": "43.14",
+            "imageUrl": "http://books.toscrape.com/media/cache/fe/1a/fe1afbd5caf79c3c957bfc5cf46f141e.jpg"
+        },
+        {
+            "bookTitle": "The Art of Startup Fundraising",
+            "bookPrice": "21.00",
+            "imageUrl": "http://books.toscrape.com/media/cache/67/e8/67e81a7a82578a919a48816330836090.jpg"
+        },
+        {
+            "bookTitle": "Born for This: How to Find the Work You Were Meant to Do",
+            "bookPrice": "21.59",
+            "imageUrl": "http://books.toscrape.com/media/cache/9f/e7/9fe7f6432f216b166cb36f16130f20f6.jpg"
+        },
+        {
+            "bookTitle": "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It",
+            "bookPrice": "36.91",
+            "imageUrl": "http://books.toscrape.com/media/cache/a5/7e/a57ef7bdbaf704fca07ab6dd125b54f9.jpg"
+        },
+        {
+            "bookTitle": "Rich Dad, Poor Dad",
+            "bookPrice": "51.74",
+            "imageUrl": "http://books.toscrape.com/media/cache/46/1c/461cf454be3aac0b4cd066247c892679.jpg"
+        },
+        {
+            "bookTitle": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+            "bookPrice": "33.92",
+            "imageUrl": "http://books.toscrape.com/media/cache/52/6e/526e9f360da288db64ca70c89cdbcaa9.jpg"
+        },
+        {
+            "bookTitle": "Rework",
+            "bookPrice": "44.88",
+            "imageUrl": "http://books.toscrape.com/media/cache/12/23/12233a9d0bf8187a988c27c6a54b3d31.jpg"
+        }
+    ],
+    "Autobiography": [
+        {
+            "bookTitle": "The Argonauts",
+            "bookPrice": "10.93",
+            "imageUrl": "http://books.toscrape.com/media/cache/22/d0/22d01c710471f94dabfa41083fa3cf4e.jpg"
+        },
+        {
+            "bookTitle": "M Train",
+            "bookPrice": "27.18",
+            "imageUrl": "http://books.toscrape.com/media/cache/f0/9f/f09fd4a3200b94db86364f308ac02530.jpg"
+        },
+        {
+            "bookTitle": "Lab Girl",
+            "bookPrice": "40.85",
+            "imageUrl": "http://books.toscrape.com/media/cache/26/ff/26ffcda626a5561e483afa19b58db8ac.jpg"
+        },
+        {
+            "bookTitle": "Approval Junkie: Adventures in Caring Too Much",
+            "bookPrice": "58.81",
+            "imageUrl": "http://books.toscrape.com/media/cache/96/6d/966d8d2afdead087cba0f29a69f89ba5.jpg"
+        },
+        {
+            "bookTitle": "Running with Scissors",
+            "bookPrice": "12.91",
+            "imageUrl": "http://books.toscrape.com/media/cache/4c/e1/4ce1ed40df359e001020e1ea55674381.jpg"
+        },
+        {
+            "bookTitle": "Me Talk Pretty One Day",
+            "bookPrice": "57.60",
+            "imageUrl": "http://books.toscrape.com/media/cache/61/b2/61b220c2079a45a7975a397c8849e00e.jpg"
+        },
+        {
+            "bookTitle": "Lust & Wonder",
+            "bookPrice": "11.87",
+            "imageUrl": "http://books.toscrape.com/media/cache/25/1c/251ce4355601534338a646f2b63be93a.jpg"
+        },
+        {
+            "bookTitle": "Life Without a Recipe",
+            "bookPrice": "59.04",
+            "imageUrl": "http://books.toscrape.com/media/cache/9e/4f/9e4fb935df3113056cc9bdee6cd09ea6.jpg"
+        },
+        {
+            "bookTitle": "A Heartbreaking Work of Staggering Genius",
+            "bookPrice": "54.29",
+            "imageUrl": "http://books.toscrape.com/media/cache/47/f3/47f3d4f1e85773bf41ba64a036e37994.jpg"
+        }
+    ],
+    "Fiction": [
+        {
+            "bookTitle": "Soumission",
+            "bookPrice": "50.10",
+            "imageUrl": "http://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg"
+        },
+        {
+            "bookTitle": "Private Paris (Private #10)",
+            "bookPrice": "47.61",
+            "imageUrl": "http://books.toscrape.com/media/cache/05/87/0587ab519222a61f803fa4570c325ad2.jpg"
+        },
+        {
+            "bookTitle": "We Love You, Charlie Freeman",
+            "bookPrice": "50.27",
+            "imageUrl": "http://books.toscrape.com/media/cache/87/a2/87a2fddd7f6b240c0351e1eb950b6716.jpg"
+        },
+        {
+            "bookTitle": "Thirst",
+            "bookPrice": "17.27",
+            "imageUrl": "http://books.toscrape.com/media/cache/8c/54/8c54a50576c204b80165a13545f73028.jpg"
+        },
+        {
+            "bookTitle": "The Murder That Never Was (Forensic Instincts #5)",
+            "bookPrice": "54.11",
+            "imageUrl": "http://books.toscrape.com/media/cache/29/e0/29e036acd8a6e3daa787ce2bc05bdbbb.jpg"
+        },
+        {
+            "bookTitle": "Tuesday Nights in 1980",
+            "bookPrice": "21.04",
+            "imageUrl": "http://books.toscrape.com/media/cache/a3/ad/a3ade5edecde67449329c1ebb016c049.jpg"
+        },
+        {
+            "bookTitle": "The Vacationers",
+            "bookPrice": "42.15",
+            "imageUrl": "http://books.toscrape.com/media/cache/34/c9/34c988a76c3cd7c04566d3030d8e7331.jpg"
+        },
+        {
+            "bookTitle": "The Regional Office Is Under Attack!",
+            "bookPrice": "51.36",
+            "imageUrl": "http://books.toscrape.com/media/cache/d4/73/d473f01f077b91ce04e345305a3fa217.jpg"
+        },
+        {
+            "bookTitle": "Finders Keepers (Bill Hodges Trilogy #2)",
+            "bookPrice": "53.53",
+            "imageUrl": "http://books.toscrape.com/media/cache/76/80/76804e1881b630a110794fef5aad02cf.jpg"
+        },
+        {
+            "bookTitle": "The Time Keeper",
+            "bookPrice": "27.88",
+            "imageUrl": "http://books.toscrape.com/media/cache/37/d1/37d108ff5b19028a52ddd73dba35d543.jpg"
+        },
+        {
+            "bookTitle": "The Testament of Mary",
+            "bookPrice": "52.67",
+            "imageUrl": "http://books.toscrape.com/media/cache/06/a6/06a62270c0700ae3c537cf394cf145ee.jpg"
+        },
+        {
+            "bookTitle": "The First Hostage (J.B. Collins #2)",
+            "bookPrice": "25.85",
+            "imageUrl": "http://books.toscrape.com/media/cache/81/3e/813e1d11126330de52d9368e78d116cc.jpg"
+        },
+        {
+            "bookTitle": "Take Me with You",
+            "bookPrice": "45.21",
+            "imageUrl": "http://books.toscrape.com/media/cache/bd/ad/bdad8933d15df7d7c6f3a16a9315048b.jpg"
+        },
+        {
+            "bookTitle": "Still Life with Bread Crumbs",
+            "bookPrice": "26.41",
+            "imageUrl": "http://books.toscrape.com/media/cache/a3/eb/a3ebe1ca5df0d3ff3e3d2b8fb8b2a551.jpg"
+        },
+        {
+            "bookTitle": "Shtum",
+            "bookPrice": "55.84",
+            "imageUrl": "http://books.toscrape.com/media/cache/63/62/63623a0b014b1f26e49aa61786e6e708.jpg"
+        },
+        {
+            "bookTitle": "My Name Is Lucy Barton",
+            "bookPrice": "41.56",
+            "imageUrl": "http://books.toscrape.com/media/cache/28/db/28db43984c765a1d02fd3495f5c52eb6.jpg"
+        },
+        {
+            "bookTitle": "My Mrs. Brown",
+            "bookPrice": "24.48",
+            "imageUrl": "http://books.toscrape.com/media/cache/2d/a3/2da3464fa2010bebedfba9eca77e42be.jpg"
+        },
+        {
+            "bookTitle": "Mr. Mercedes (Bill Hodges Trilogy #1)",
+            "bookPrice": "28.90",
+            "imageUrl": "http://books.toscrape.com/media/cache/65/7f/657f9a3b7c0579c7fa499dddddd59422.jpg"
+        },
+        {
+            "bookTitle": "I Am Pilgrim (Pilgrim #1)",
+            "bookPrice": "10.60",
+            "imageUrl": "http://books.toscrape.com/media/cache/8d/a3/8da36f821f35b795a3a420c84ca9737e.jpg"
+        },
+        {
+            "bookTitle": "Eligible (The Austen Project #4)",
+            "bookPrice": "27.09",
+            "imageUrl": "http://books.toscrape.com/media/cache/0a/9a/0a9a0b211bee87b544bd97a8320a0b73.jpg"
+        },
+        {
+            "bookTitle": "Eight Hundred Grapes",
+            "bookPrice": "14.39",
+            "imageUrl": "http://books.toscrape.com/media/cache/5b/34/5b34d6d54467af2d5e44a5f91031adf2.jpg"
+        },
+        {
+            "bookTitle": "Dear Mr. Knightley",
+            "bookPrice": "11.21",
+            "imageUrl": "http://books.toscrape.com/media/cache/e1/8d/e18dc724d16d7501dcaaa56bdb49c16d.jpg"
+        },
+        {
+            "bookTitle": "Cometh the Hour (The Clifton Chronicles #6)",
+            "bookPrice": "25.01",
+            "imageUrl": "http://books.toscrape.com/media/cache/a0/f6/a0f6ff77c5f4604f88b1c74bbf669995.jpg"
+        },
+        {
+            "bookTitle": "Balloon Animals",
+            "bookPrice": "17.03",
+            "imageUrl": "http://books.toscrape.com/media/cache/f3/fc/f3fc38185b3b6ede38fd9dea2590c01f.jpg"
+        },
+        {
+            "bookTitle": "A Man Called Ove",
+            "bookPrice": "39.72",
+            "imageUrl": "http://books.toscrape.com/media/cache/e9/e2/e9e22f047d6733f6c9dbbb8bf5342b09.jpg"
+        },
+        {
+            "bookTitle": "The Silent Sister (Riley MacPherson #1)",
+            "bookPrice": "46.29",
+            "imageUrl": "http://books.toscrape.com/media/cache/98/df/98df70802a22c17dac6026645da4ab87.jpg"
+        },
+        {
+            "bookTitle": "The Dinner Party",
+            "bookPrice": "56.54",
+            "imageUrl": "http://books.toscrape.com/media/cache/a5/ad/a5ad88ff798c629eb24b19188c1ea902.jpg"
+        },
+        {
+            "bookTitle": "The Improbability of Love",
+            "bookPrice": "59.45",
+            "imageUrl": "http://books.toscrape.com/media/cache/7c/c3/7cc38fa8812d931bf38b10b7d91b4266.jpg"
+        },
+        {
+            "bookTitle": "Mothering Sunday",
+            "bookPrice": "13.34",
+            "imageUrl": "http://books.toscrape.com/media/cache/9b/1a/9b1a03d05c16c71050daefad8840ec91.jpg"
+        },
+        {
+            "bookTitle": "Lies and Other Acts of Love",
+            "bookPrice": "45.14",
+            "imageUrl": "http://books.toscrape.com/media/cache/8f/26/8f269de5ec7cef02e538eb0466c68f0c.jpg"
+        },
+        {
+            "bookTitle": "Daredevils",
+            "bookPrice": "16.34",
+            "imageUrl": "http://books.toscrape.com/media/cache/79/47/79478ba5ab673fbdfe79a745a14fb9de.jpg"
+        },
+        {
+            "bookTitle": "11/22/63",
+            "bookPrice": "48.48",
+            "imageUrl": "http://books.toscrape.com/media/cache/4c/4c/4c4ce2398c6ad6c074e8061f739964cc.jpg"
+        },
+        {
+            "bookTitle": "The Shack",
+            "bookPrice": "28.03",
+            "imageUrl": "http://books.toscrape.com/media/cache/4c/ae/4cae2beda2d1c5f851f8971f94fdbc91.jpg"
+        },
+        {
+            "bookTitle": "The High Mountains of Portugal",
+            "bookPrice": "51.15",
+            "imageUrl": "http://books.toscrape.com/media/cache/f3/28/f3285723c344576168d60806d266979a.jpg"
+        },
+        {
+            "bookTitle": "Miller's Valley",
+            "bookPrice": "58.54",
+            "imageUrl": "http://books.toscrape.com/media/cache/a8/b9/a8b940d9bf27d6aedad73f0230c14f56.jpg"
+        },
+        {
+            "bookTitle": "Hystopia: A Novel",
+            "bookPrice": "21.96",
+            "imageUrl": "http://books.toscrape.com/media/cache/23/2f/232fdac6b00cd3c7cd2b2336ff3b730e.jpg"
+        },
+        {
+            "bookTitle": "The Bourne Identity (Jason Bourne #1)",
+            "bookPrice": "42.78",
+            "imageUrl": "http://books.toscrape.com/media/cache/fe/a4/fea443d174c2c9f0c7903f6c6a3ecc62.jpg"
+        },
+        {
+            "bookTitle": "Sister Dear",
+            "bookPrice": "40.20",
+            "imageUrl": "http://books.toscrape.com/media/cache/2a/0a/2a0a1543dd5f3edc407ab9989f29e992.jpg"
+        },
+        {
+            "bookTitle": "Memoirs of a Geisha",
+            "bookPrice": "49.67",
+            "imageUrl": "http://books.toscrape.com/media/cache/5e/4b/5e4b5ef50c54f173456606e70719cc84.jpg"
+        },
+        {
+            "bookTitle": "Me Before You (Me Before You #1)",
+            "bookPrice": "19.02",
+            "imageUrl": "http://books.toscrape.com/media/cache/81/c3/81c36cb2510dc47892dde52f3989a53f.jpg"
+        },
+        {
+            "bookTitle": "Deception Point",
+            "bookPrice": "40.32",
+            "imageUrl": "http://books.toscrape.com/media/cache/65/6d/656d264685962b55ff14fb310b0ae747.jpg"
+        },
+        {
+            "bookTitle": "The Little Paris Bookshop",
+            "bookPrice": "24.73",
+            "imageUrl": "http://books.toscrape.com/media/cache/ed/25/ed2540d08b66683313ffee9241bfd926.jpg"
+        },
+        {
+            "bookTitle": "The Firm",
+            "bookPrice": "45.56",
+            "imageUrl": "http://books.toscrape.com/media/cache/30/64/3064d8c687f770efea3fabeac0cd2d6f.jpg"
+        },
+        {
+            "bookTitle": "The Expatriates",
+            "bookPrice": "44.58",
+            "imageUrl": "http://books.toscrape.com/media/cache/4a/96/4a96cd8c43ea6c74d5b8d9ce1d47c187.jpg"
+        },
+        {
+            "bookTitle": "Siddhartha",
+            "bookPrice": "34.22",
+            "imageUrl": "http://books.toscrape.com/media/cache/6b/5f/6b5fba0f415741ab61c0cf24d11933ab.jpg"
+        },
+        {
+            "bookTitle": "Last One Home (New Beginnings #1)",
+            "bookPrice": "59.98",
+            "imageUrl": "http://books.toscrape.com/media/cache/0b/98/0b98d840b298be76c1a982a8d1f4688f.jpg"
+        },
+        {
+            "bookTitle": "Digital Fortress",
+            "bookPrice": "58.00",
+            "imageUrl": "http://books.toscrape.com/media/cache/86/78/86786e20ec80b5b3ec66657870750b73.jpg"
+        },
+        {
+            "bookTitle": "Atlas Shrugged",
+            "bookPrice": "26.58",
+            "imageUrl": "http://books.toscrape.com/media/cache/9d/3c/9d3c5430a627260e4a8c9ca02c8a8924.jpg"
+        },
+        {
+            "bookTitle": "Three-Martini Lunch",
+            "bookPrice": "23.21",
+            "imageUrl": "http://books.toscrape.com/media/cache/fc/c2/fcc2f183dde593b991e01585f5df1e09.jpg"
+        },
+        {
+            "bookTitle": "The Nightingale",
+            "bookPrice": "26.26",
+            "imageUrl": "http://books.toscrape.com/media/cache/c6/ac/c6ac29eaf9e7de9de175d014d2132428.jpg"
+        },
+        {
+            "bookTitle": "The Infinities",
+            "bookPrice": "27.41",
+            "imageUrl": "http://books.toscrape.com/media/cache/c8/9e/c89ec72cf70f8d37e049223b90708a5a.jpg"
+        },
+        {
+            "bookTitle": "The Husband's Secret",
+            "bookPrice": "52.51",
+            "imageUrl": "http://books.toscrape.com/media/cache/95/27/9527e680e56bb3f8d9bf4e8882a3b723.jpg"
+        },
+        {
+            "bookTitle": "The Da Vinci Code (Robert Langdon #2)",
+            "bookPrice": "22.96",
+            "imageUrl": "http://books.toscrape.com/media/cache/90/81/90810ccd85e7f49b9040246800a19b44.jpg"
+        },
+        {
+            "bookTitle": "The Art of Fielding",
+            "bookPrice": "22.10",
+            "imageUrl": "http://books.toscrape.com/media/cache/8a/fe/8afee4ecfc952010bcb70f72e4728d16.jpg"
+        },
+        {
+            "bookTitle": "Lila (Gilead #3)",
+            "bookPrice": "12.47",
+            "imageUrl": "http://books.toscrape.com/media/cache/9b/37/9b37bcfb1a44dabbef36f5bf899df4b0.jpg"
+        },
+        {
+            "bookTitle": "Jurassic Park (Jurassic Park #1)",
+            "bookPrice": "44.97",
+            "imageUrl": "http://books.toscrape.com/media/cache/26/9e/269e8962f39f359559a46cae86576128.jpg"
+        },
+        {
+            "bookTitle": "Inferno (Robert Langdon #4)",
+            "bookPrice": "41.00",
+            "imageUrl": "http://books.toscrape.com/media/cache/ec/15/ec15a39e6f193636635f20a7354b08f6.jpg"
+        },
+        {
+            "bookTitle": "Crazy Rich Asians (Crazy Rich Asians #1)",
+            "bookPrice": "49.13",
+            "imageUrl": "http://books.toscrape.com/media/cache/05/37/053789bf4a9b520bf76fc9eea14e780e.jpg"
+        },
+        {
+            "bookTitle": "Big Little Lies",
+            "bookPrice": "22.11",
+            "imageUrl": "http://books.toscrape.com/media/cache/c5/3f/c53fd6a9300ac091351e3830273a4d42.jpg"
+        },
+        {
+            "bookTitle": "The Course of Love",
+            "bookPrice": "16.78",
+            "imageUrl": "http://books.toscrape.com/media/cache/c9/b9/c9b9ce0ea36cc737d1693ac89c5d0361.jpg"
+        },
+        {
+            "bookTitle": "When I'm Gone",
+            "bookPrice": "51.96",
+            "imageUrl": "http://books.toscrape.com/media/cache/f8/dd/f8ddbaef30884ed017b662b4069b78d4.jpg"
+        },
+        {
+            "bookTitle": "The Silent Wife",
+            "bookPrice": "12.34",
+            "imageUrl": "http://books.toscrape.com/media/cache/a6/37/a6378b97d817267de38ba58dfd0db412.jpg"
+        },
+        {
+            "bookTitle": "The Bette Davis Club",
+            "bookPrice": "30.66",
+            "imageUrl": "http://books.toscrape.com/media/cache/fb/6c/fb6c914f1da870442031095c85f4cf80.jpg"
+        },
+        {
+            "bookTitle": "Kitchens of the Great Midwest",
+            "bookPrice": "57.20",
+            "imageUrl": "http://books.toscrape.com/media/cache/ed/be/edbe83ef3ebf5c22b9ebc139d3232947.jpg"
+        },
+        {
+            "bookTitle": "Bright Lines",
+            "bookPrice": "39.07",
+            "imageUrl": "http://books.toscrape.com/media/cache/26/4f/264f79395041ac4b88038030da0433cd.jpg"
+        }
+    ],
+    "Fantasy": [
+        {
+            "bookTitle": "Unicorn Tracks",
+            "bookPrice": "18.78",
+            "imageUrl": "http://books.toscrape.com/media/cache/9b/09/9b0935dc936c92900c2dc5d2114da72f.jpg"
+        },
+        {
+            "bookTitle": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+            "bookPrice": "25.02",
+            "imageUrl": "http://books.toscrape.com/media/cache/4a/99/4a996ae54711cea37e370428b54f8b19.jpg"
+        },
+        {
+            "bookTitle": "Princess Between Worlds (Wide-Awake Princess #5)",
+            "bookPrice": "13.34",
+            "imageUrl": "http://books.toscrape.com/media/cache/db/01/db01b38d3200a5faff4ead42791416e4.jpg"
+        },
+        {
+            "bookTitle": "Masks and Shadows",
+            "bookPrice": "56.40",
+            "imageUrl": "http://books.toscrape.com/media/cache/05/c4/05c43fe821ae19169c7baa8a54c7e869.jpg"
+        },
+        {
+            "bookTitle": "Crown of Midnight (Throne of Glass #2)",
+            "bookPrice": "43.29",
+            "imageUrl": "http://books.toscrape.com/media/cache/b7/7d/b77d5e56daa3c22822abf1b8affbaef9.jpg"
+        },
+        {
+            "bookTitle": "Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",
+            "bookPrice": "28.09",
+            "imageUrl": "http://books.toscrape.com/media/cache/9f/25/9f25ffe4229a32d1368b3dfe248c3343.jpg"
+        },
+        {
+            "bookTitle": "A Court of Thorns and Roses (A Court of Thorns and Roses #1)",
+            "bookPrice": "52.37",
+            "imageUrl": "http://books.toscrape.com/media/cache/0a/78/0a78f89fc2dc78b700b494c3510e8920.jpg"
+        },
+        {
+            "bookTitle": "Throne of Glass (Throne of Glass #1)",
+            "bookPrice": "35.07",
+            "imageUrl": "http://books.toscrape.com/media/cache/4e/8d/4e8d87d1cb5e876ddb50599a1d1b656e.jpg"
+        },
+        {
+            "bookTitle": "The Glittering Court (The Glittering Court #1)",
+            "bookPrice": "44.28",
+            "imageUrl": "http://books.toscrape.com/media/cache/2f/21/2f21c9ffd0962092ce337ecd1b338f5b.jpg"
+        },
+        {
+            "bookTitle": "Hollow City (Miss Peregrine’s Peculiar Children #2)",
+            "bookPrice": "42.98",
+            "imageUrl": "http://books.toscrape.com/media/cache/4c/fd/4cfd83a011f60d38b140642a441ce01a.jpg"
+        },
+        {
+            "bookTitle": "The Star-Touched Queen",
+            "bookPrice": "46.02",
+            "imageUrl": "http://books.toscrape.com/media/cache/ac/1a/ac1a0546d9cdf6cd82ab7712a6c418df.jpg"
+        },
+        {
+            "bookTitle": "The Hidden Oracle (The Trials of Apollo #1)",
+            "bookPrice": "52.26",
+            "imageUrl": "http://books.toscrape.com/media/cache/7c/55/7c550a26f03e12343d0c6b4474b3eb1e.jpg"
+        },
+        {
+            "bookTitle": "The Bane Chronicles (The Bane Chronicles #1-11)",
+            "bookPrice": "44.73",
+            "imageUrl": "http://books.toscrape.com/media/cache/e9/fe/e9fed5b725a6badd26ef93175fdc248b.jpg"
+        },
+        {
+            "bookTitle": "Island of Dragons (Unwanteds #7)",
+            "bookPrice": "29.65",
+            "imageUrl": "http://books.toscrape.com/media/cache/0f/65/0f6563cce3cc893cde20b088f6fd4107.jpg"
+        },
+        {
+            "bookTitle": "Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)",
+            "bookPrice": "37.51",
+            "imageUrl": "http://books.toscrape.com/media/cache/b7/d5/b7d558f31dc9803aeb6c76009fdea5bc.jpg"
+        },
+        {
+            "bookTitle": "City of Glass (The Mortal Instruments #3)",
+            "bookPrice": "56.02",
+            "imageUrl": "http://books.toscrape.com/media/cache/10/66/106624e3f3bf865390255be16dfb71d8.jpg"
+        },
+        {
+            "bookTitle": "Searching for Meaning in Gailana",
+            "bookPrice": "38.73",
+            "imageUrl": "http://books.toscrape.com/media/cache/9e/b4/9eb4396139c421fc9f832011c68adb2c.jpg"
+        },
+        {
+            "bookTitle": "The Star-Touched Queen",
+            "bookPrice": "32.30",
+            "imageUrl": "http://books.toscrape.com/media/cache/dc/57/dc57f908a0a2e130a5c065893a9005dd.jpg"
+        },
+        {
+            "bookTitle": "A Shard of Ice (The Black Symphony Saga #1)",
+            "bookPrice": "56.63",
+            "imageUrl": "http://books.toscrape.com/media/cache/9d/9b/9d9bf1a3155fb3736d2fe12799dcca95.jpg"
+        },
+        {
+            "bookTitle": "King's Folly (The Kinsman Chronicles #1)",
+            "bookPrice": "39.61",
+            "imageUrl": "http://books.toscrape.com/media/cache/fc/17/fc17b4149d87d9ee714dde082ede0ee9.jpg"
+        },
+        {
+            "bookTitle": "Every Heart a Doorway (Every Heart A Doorway #1)",
+            "bookPrice": "12.16",
+            "imageUrl": "http://books.toscrape.com/media/cache/b8/d7/b8d7eab895dac4551905c5f85849bb32.jpg"
+        },
+        {
+            "bookTitle": "A Gathering of Shadows (Shades of Magic #2)",
+            "bookPrice": "44.81",
+            "imageUrl": "http://books.toscrape.com/media/cache/c3/1a/c31af6fddfa452d9d746a599f35dcc01.jpg"
+        },
+        {
+            "bookTitle": "The Raven Boys (The Raven Cycle #1)",
+            "bookPrice": "57.74",
+            "imageUrl": "http://books.toscrape.com/media/cache/68/b0/68b05bbf33c6b8e2914f35ad14a0d2d8.jpg"
+        },
+        {
+            "bookTitle": "The False Prince (The Ascendance Trilogy #1)",
+            "bookPrice": "56.00",
+            "imageUrl": "http://books.toscrape.com/media/cache/36/b1/36b1333456d4c6b28e90d1157d37bc0e.jpg"
+        },
+        {
+            "bookTitle": "Tell the Wind and Fire",
+            "bookPrice": "45.51",
+            "imageUrl": "http://books.toscrape.com/media/cache/bf/77/bf77b0c1f1bda1cd7297325066a7f337.jpg"
+        },
+        {
+            "bookTitle": "A Feast for Crows (A Song of Ice and Fire #4)",
+            "bookPrice": "17.21",
+            "imageUrl": "http://books.toscrape.com/media/cache/6f/b7/6fb724034c86041a52b247ae53613413.jpg"
+        },
+        {
+            "bookTitle": "The Demonists (Demonist #1)",
+            "bookPrice": "52.11",
+            "imageUrl": "http://books.toscrape.com/media/cache/be/f8/bef8aac75369fc2211515cd4c76d3518.jpg"
+        },
+        {
+            "bookTitle": "The Beast (Black Dagger Brotherhood #14)",
+            "bookPrice": "46.08",
+            "imageUrl": "http://books.toscrape.com/media/cache/d4/76/d4761761d26eb7fe1ba0a9480913a8ca.jpg"
+        },
+        {
+            "bookTitle": "Paper and Fire (The Great Library #2)",
+            "bookPrice": "49.45",
+            "imageUrl": "http://books.toscrape.com/media/cache/b6/3b/b63bd741fc6ada1e60a33db14bde0277.jpg"
+        },
+        {
+            "bookTitle": "Harry Potter and the Order of the Phoenix (Harry Potter #5)",
+            "bookPrice": "31.63",
+            "imageUrl": "http://books.toscrape.com/media/cache/ca/56/ca565814dfe2d9f73d3d6b1ad7265984.jpg"
+        },
+        {
+            "bookTitle": "Harry Potter and the Half-Blood Prince (Harry Potter #6)",
+            "bookPrice": "48.75",
+            "imageUrl": "http://books.toscrape.com/media/cache/06/ee/06ee91950f111a29d18bccb0c3418fb4.jpg"
+        },
+        {
+            "bookTitle": "Harry Potter and the Chamber of Secrets (Harry Potter #2)",
+            "bookPrice": "14.74",
+            "imageUrl": "http://books.toscrape.com/media/cache/9e/3c/9e3c81f9694c5832a24bf590c2a0b610.jpg"
+        },
+        {
+            "bookTitle": "The Rose & the Dagger (The Wrath and the Dawn #2)",
+            "bookPrice": "58.64",
+            "imageUrl": "http://books.toscrape.com/media/cache/a9/b6/a9b62c069312790dd2d408b0b57a2976.jpg"
+        },
+        {
+            "bookTitle": "Soldier (Talon #3)",
+            "bookPrice": "24.72",
+            "imageUrl": "http://books.toscrape.com/media/cache/79/15/7915bf4c3d1a2f7fd39c4edff580e91f.jpg"
+        },
+        {
+            "bookTitle": "Midnight Riot (Peter Grant/ Rivers of London - books #1)",
+            "bookPrice": "55.46",
+            "imageUrl": "http://books.toscrape.com/media/cache/cd/65/cd65e4ee648ae23f6cdafb41e4948d6e.jpg"
+        },
+        {
+            "bookTitle": "Heir to the Sky",
+            "bookPrice": "44.07",
+            "imageUrl": "http://books.toscrape.com/media/cache/36/39/36393f3294ab28afe4a2117fc987be75.jpg"
+        },
+        {
+            "bookTitle": "Eragon (The Inheritance Cycle #1)",
+            "bookPrice": "43.87",
+            "imageUrl": "http://books.toscrape.com/media/cache/8e/5a/8e5a6639c7e2f9b59ff15f04a3b055e1.jpg"
+        },
+        {
+            "bookTitle": "Darkfever (Fever #1)",
+            "bookPrice": "56.02",
+            "imageUrl": "http://books.toscrape.com/media/cache/f2/53/f253cb694eae2cc512e395f2d54eefd5.jpg"
+        },
+        {
+            "bookTitle": "Ash",
+            "bookPrice": "22.06",
+            "imageUrl": "http://books.toscrape.com/media/cache/20/ea/20ea16f618488e65f6abc5535fa77610.jpg"
+        },
+        {
+            "bookTitle": "A Storm of Swords (A Song of Ice and Fire #3)",
+            "bookPrice": "31.22",
+            "imageUrl": "http://books.toscrape.com/media/cache/0b/c8/0bc884c23d4204aec7bbf35d5e8849f6.jpg"
+        },
+        {
+            "bookTitle": "Vampire Girl (Vampire Girl #1)",
+            "bookPrice": "53.82",
+            "imageUrl": "http://books.toscrape.com/media/cache/32/8d/328dc781f0faaa70e67f9a04ef601d3c.jpg"
+        },
+        {
+            "bookTitle": "The Silent Twin (Detective Jennifer Knight #3)",
+            "bookPrice": "36.25",
+            "imageUrl": "http://books.toscrape.com/media/cache/c1/80/c1800f5a0eaaaea8c2283b129cbac4ae.jpg"
+        },
+        {
+            "bookTitle": "The Mirror & the Maze (The Wrath and the Dawn #1.5)",
+            "bookPrice": "29.38",
+            "imageUrl": "http://books.toscrape.com/media/cache/61/8a/618a23dc5a492a4aa8b15ba4bf80c781.jpg"
+        },
+        {
+            "bookTitle": "Sister Sable (The Mad Queen #1)",
+            "bookPrice": "13.33",
+            "imageUrl": "http://books.toscrape.com/media/cache/26/47/2647baddb86f91b6f7ea2fb8052edd62.jpg"
+        },
+        {
+            "bookTitle": "Shadow Rites (Jane Yellowrock #10)",
+            "bookPrice": "21.72",
+            "imageUrl": "http://books.toscrape.com/media/cache/b8/35/b83561ef09d202d3c871649feed4b66d.jpg"
+        },
+        {
+            "bookTitle": "Origins (Alphas 0.5)",
+            "bookPrice": "28.99",
+            "imageUrl": "http://books.toscrape.com/media/cache/ad/78/ad789235c675d02b730b57a166d910b5.jpg"
+        },
+        {
+            "bookTitle": "One Second (Seven #7)",
+            "bookPrice": "52.94",
+            "imageUrl": "http://books.toscrape.com/media/cache/70/ad/70ad2de442bc3ffe36660ccabfe46148.jpg"
+        },
+        {
+            "bookTitle": "Myriad (Prentor #1)",
+            "bookPrice": "58.75",
+            "imageUrl": "http://books.toscrape.com/media/cache/48/7d/487d4be44c60cac7f0085242c4512653.jpg"
+        }
+    ],
+    "Poetry": [
+        {
+            "bookTitle": "A Light in the Attic",
+            "bookPrice": "51.77",
+            "imageUrl": "http://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg"
+        },
+        {
+            "bookTitle": "The Black Maria",
+            "bookPrice": "52.15",
+            "imageUrl": "http://books.toscrape.com/media/cache/d1/7a/d17a3e313e52e1be5651719e4fba1d16.jpg"
+        },
+        {
+            "bookTitle": "Shakespeare's Sonnets",
+            "bookPrice": "20.66",
+            "imageUrl": "http://books.toscrape.com/media/cache/4d/7a/4d7a79a8be80a529b277ed5c4d8ba482.jpg"
+        },
+        {
+            "bookTitle": "Olio",
+            "bookPrice": "23.88",
+            "imageUrl": "http://books.toscrape.com/media/cache/b1/0e/b10eabab1e1c811a6d47969904fd5755.jpg"
+        },
+        {
+            "bookTitle": "You can't bury them all: Poems",
+            "bookPrice": "33.63",
+            "imageUrl": "http://books.toscrape.com/media/cache/b7/44/b7440aa88046b0bf8cba50d59295518e.jpg"
+        },
+        {
+            "bookTitle": "Slow States of Collapse: Poems",
+            "bookPrice": "57.31",
+            "imageUrl": "http://books.toscrape.com/media/cache/db/ac/dbac3faca8a799824f5725d66c0fcce3.jpg"
+        },
+        {
+            "bookTitle": "Untitled Collection: Sabbath Poems 2014",
+            "bookPrice": "14.27",
+            "imageUrl": "http://books.toscrape.com/media/cache/65/6e/656e79dfd4f8b6bf19ffde2c75ceda81.jpg"
+        },
+        {
+            "bookTitle": "Poems That Make Grown Women Cry",
+            "bookPrice": "14.19",
+            "imageUrl": "http://books.toscrape.com/media/cache/18/ac/18ac3f16b10a5fc47e603d93335e3f24.jpg"
+        },
+        {
+            "bookTitle": "Night Sky with Exit Wounds",
+            "bookPrice": "41.05",
+            "imageUrl": "http://books.toscrape.com/media/cache/ff/48/ff48b0696fb97b7f7b5c6d15e372cb70.jpg"
+        },
+        {
+            "bookTitle": "salt.",
+            "bookPrice": "46.78",
+            "imageUrl": "http://books.toscrape.com/media/cache/c9/92/c9924f9637aef6d9fc8e165be62f69ee.jpg"
+        },
+        {
+            "bookTitle": "Quarter Life Poetry: Poems for the Young, Broke and Hangry",
+            "bookPrice": "50.89",
+            "imageUrl": "http://books.toscrape.com/media/cache/68/92/68922093080c377fa521ba64d8d372e1.jpg"
+        },
+        {
+            "bookTitle": "Out of Print: City Lights Spotlight No. 14",
+            "bookPrice": "53.64",
+            "imageUrl": "http://books.toscrape.com/media/cache/4c/5a/4c5a559bc2edb79e5d48af4dbc813eb2.jpg"
+        },
+        {
+            "bookTitle": "Les Fleurs du Mal",
+            "bookPrice": "29.04",
+            "imageUrl": "http://books.toscrape.com/media/cache/3d/32/3d324c0b55c221e9b701d4e772b42ad6.jpg"
+        },
+        {
+            "bookTitle": "Howl and Other Poems",
+            "bookPrice": "40.45",
+            "imageUrl": "http://books.toscrape.com/media/cache/09/8e/098e81fcea9f6b4c15f6d207301c0085.jpg"
+        },
+        {
+            "bookTitle": "Leave This Song Behind: Teen Poetry at Its Best",
+            "bookPrice": "51.17",
+            "imageUrl": "http://books.toscrape.com/media/cache/5e/ca/5eca840ed2d6f0f0d2f795922cb76741.jpg"
+        },
+        {
+            "bookTitle": "The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)",
+            "bookPrice": "15.42",
+            "imageUrl": "http://books.toscrape.com/media/cache/b3/8c/b38cadc69f4a2db0aae2ee2867ab8583.jpg"
+        },
+        {
+            "bookTitle": "The Crossover",
+            "bookPrice": "38.77",
+            "imageUrl": "http://books.toscrape.com/media/cache/25/fe/25fe373b974387a66ff1dea80f023ccb.jpg"
+        },
+        {
+            "bookTitle": "Booked",
+            "bookPrice": "17.49",
+            "imageUrl": "http://books.toscrape.com/media/cache/cf/3b/cf3b0341f5f4f4ad2c1439c11d32a9b1.jpg"
+        },
+        {
+            "bookTitle": "Twenty Love Poems and a Song of Despair",
+            "bookPrice": "30.95",
+            "imageUrl": "http://books.toscrape.com/media/cache/ec/10/ec10f11ff0ea13c17a42d81b03896235.jpg"
+        }
+    ]
+}

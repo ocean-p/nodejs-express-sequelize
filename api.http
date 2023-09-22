@@ -1,0 +1,30 @@
+GET http://localhost:5000
+###
+
+POST http://localhost:5000/auth/register
+Content-Type: application/json
+
+{
+  "email": "sarang@gmail.com",
+  "password": "12345"
+}
+
+###
+
+POST http://localhost:5000/auth/login
+Content-Type: application/json
+
+{
+  "email": "hana@gmail.com",
+  "password": "12345"
+}
+
+###
+GET http://localhost:5000/user
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiZW1haWwiOiJoYW5hQGdtYWlsLmNvbSIsInJvbGVfY29kZSI6IlIzIiwiaWF0IjoxNjk1MjgzNjU3LCJleHAiOjE2OTU0NTY0NTd9.zxlU-zUKe4Ny6slMHO1fxSXYMuDBgLBltrFJrRD6Scw
+
+###
+GET http://localhost:5000/insert
+
+###
+GET http://localhost:5000/book?order[]=price&order[]=ASC&available=5
