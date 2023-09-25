@@ -51,7 +51,8 @@ export const createBook = (body, fileData) => new Promise( async (resolve, rejec
       },
       defaults: {
         ...body,
-        image: fileData?.path
+        image: fileData?.path,
+        filename: fileData?.filename
       }
     })
 
@@ -68,5 +69,56 @@ export const createBook = (body, fileData) => new Promise( async (resolve, rejec
     console.log(error)
     reject(error)
     if(fileData) cloudinary.uploader.destroy(fileData.filename)
+  }
+})
+
+export const updateBook = ({id, ...body}, fileData) => new Promise( async (resolve, reject) => {
+  try {
+    if(fileData) body.image = fileData.path
+    const response = await db.Book.update(body, {
+      where: { id }
+    })
+
+    console.log(response)
+
+    resolve({
+      error: response[0] > 0 ? 0 : 1,
+      message: response[0] > 0 ? `Success to update Book id:${id}!` : 
+        `Fail to update Book id:${id}`
+    })
+
+    if(fileData && response[0] === 0) 
+      cloudinary.uploader.destroy(fileData.filename)
+  } catch (error) {
+    console.log(error)
+    reject(error)
+    if(fileData) cloudinary.uploader.destroy(fileData.filename)
+  }
+})
+
+export const deleteBook = ({ids}) => new Promise( async (resolve, reject) => {
+  try {
+    const response = await db.Book.findAll({
+      where: {id: ids}
+    })
+
+    const images = response.map(item => item.filename)
+
+    if(images.length > 0){
+      cloudinary.api.delete_resources(images)
+    }
+
+    const responseDelete = await db.Book.destroy({
+      where: {id: ids}
+    })
+
+    resolve({
+      error: responseDelete > 0 ? 0 : 1,
+      message: `${responseDelete} book(s) deleted!`
+    })
+    
+  } catch (error) {
+    console.log(error)
+    reject(error)
   }
 })
