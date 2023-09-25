@@ -8,7 +8,7 @@ This is back-end server for books management.
 * MySQL
 * JWT
 * Joi (validate)
-* cloudinary (upload image)
+* Cloudinary (upload image)
 
 ### Main actors in the website
 * Admin
