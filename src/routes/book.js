@@ -6,10 +6,10 @@ import uploadCloud from '../middlewares/cloudinary.config'
 
 const router = express.Router()
 
-router.get('/', controllers.getBooks)
 
 router.use(verifyToken)
 router.use(isModeratorOrAdmin)
+router.get('/', controllers.getBooks)
 router.post('/', uploadCloud.single('image'), controllers.createBook)
 router.put('/', uploadCloud.single('image'), controllers.updateBook)
 router.delete('/', controllers.deleteBook)
